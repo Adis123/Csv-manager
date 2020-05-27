@@ -4,10 +4,6 @@
         <div id="content">
 
             <div class="container-fluid">
-
-                <p class="mb-4 charts">This is a challenge submission to company Talacka Ltd.
-                    <br/>
-                    Made by Adomas Dambrauskas</p>
                 <h1 class="h3 mb-2 text-gray-800">How to use?</h1>
 
                 <div class="card-columns">
